@@ -34,5 +34,4 @@ int main()
         printf ("INVALUD_ARGUMENTS");
 	
 	return 0;
-	
-}
+	}
